@@ -1,3 +1,6 @@
+# HTML & CSS PROJECTS ->
+<hr>
+
 - ## Project 1 [Github](https://github.com/VidyaSagarMehar/Trend-live-project-01)
 
 
