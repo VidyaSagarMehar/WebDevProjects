@@ -1,6 +1,6 @@
 # ReactJS Projects
 
-- ## Weather App [github](https://github.com/VidyaSagarMehar/Weather-App-ReactJS)
+- ## Weather App (Internship Project) [github](https://github.com/VidyaSagarMehar/Weather-App-ReactJS)
 - ## Text Utils [github](https://github.com/VidyaSagarMehar/React-Text-Utils)
 - ## TicTacToe [github](https://github.com/VidyaSagarMehar/tictactoe-React_proj)
 - ## karmnow - clone [github](https://github.com/VidyaSagarMehar/karmanowCLONE-React-project)
